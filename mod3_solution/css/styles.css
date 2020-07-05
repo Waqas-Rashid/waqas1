@@ -1,0 +1,51 @@
+body{
+	background-color: #87653e;
+}
+
+/************** HEADER *******/
+#header-nav{
+	background-color: #c4aa33;
+	border-radius: 0;
+	border: 0;
+	padding: 15px;
+}
+
+.navbar-brand h1{
+	position: relative;
+	bottom: 25px;
+	left: 5px;
+
+}
+.navbar-brand a{
+	text-decoration: none;
+}
+/**********Header ends**********/
+
+/*****Drop-down manu button for mobile screen *****/
+
+#dropdown-list{background-color: #a15703;}
+
+#dropdown-list a{
+color: #f5f0f4;
+font-size: 1.2em;
+}
+.navbar-default .navbar-nav>li>a:hover {
+  background-color: #B0B0B0;
+  color: red;
+}
+/***END OF Drop-down manu button for mobile screen***/
+
+/*****Section or main page styling starts here******/
+section h2{
+	color: #ebd9c5;
+	padding: 20px;
+}
+section h3{
+	color: #d661ed;
+	padding-top: 10px;
+}
+.Chicken, .Beef , .Sushi{
+	margin: 0px 20px;
+	padding: 0px 20px;
+	background-color: #c7bdb3;
+}
